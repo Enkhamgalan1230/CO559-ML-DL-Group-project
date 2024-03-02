@@ -9,6 +9,7 @@ Simple ML/DL projects on Classification and Regression
 **4.** Brunaldo Cimo
 
 **Google colab link:** 
-https://colab.research.google.com/drive/15kMHZrXMzxz532FlzYRxfpEQ-0Mf7Zve?usp=sharing \
+https://colab.research.google.com/drive/15kMHZrXMzxz532FlzYRxfpEQ-0Mf7Zve?usp=sharing 
+
 **Kaggle link:**
 https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/notebook 
