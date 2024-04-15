@@ -4,8 +4,8 @@ Simple ML/DL projects on Classification and Regression
 **Team Members:**
 
 **1.** Entwan Enkhbayara\
-**2.** Crown Caesar\
-**3.** Muneef Mumthas\
+**2.** Muneef Mumthas\
+**3.** Crown Caesar\
 **4.** Brunaldo Cimo
 
 **Google colab link:** 
