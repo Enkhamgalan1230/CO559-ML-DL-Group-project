@@ -1,5 +1,5 @@
-# CO599---ML-projects
-Simple ML/DL projects on Classification and Regression
+# CO559 - ML & DL - Team Project
+Simple ML/DL projects on Classification of Iris dataset (csv & image)
 
 **Team Members:**
 
